@@ -22,7 +22,7 @@
   ---
   
   <h3>Personal</h3>
-  Lately I've been tapping into the startup spacing working on my own high-quality products and tools, I love building things which help others
+  Lately I've been tapping into the startup space working on my own high-quality products and tools, I love building things which help others
   in lots of ways. I've also been getting interested into the blockchain space so have been tampering around in that field <3
   
   ---
