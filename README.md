@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/badge/Maven-blue?style=for-the-badge&logo=apachemaven" />
   <img src="https://img.shields.io/badge/SQL-lightblue?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/sveltekit-orange?style=for-the-badge&logo=svelte" />
+  <img src="https://img.shields.io/badge/ReactJs-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/ExpressJs-green?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/typescript-lightblue?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/html-gold?style=for-the-badge&logo=html5" />
@@ -33,9 +34,6 @@
   </a>
   <a href="https://www.instagram.com/jaminstratford/">
   <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="https://www.spigotmc.org/members/iminiilluzionz.467707/">
-  <img src="https://img.shields.io/badge/Spigot-gold?style=for-the-badge&logo=codersrank" />
   </a>
   
   ---
