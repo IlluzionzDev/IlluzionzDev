@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Kotlin-pink?style=for-the-badge&logo=kotlin" />
   <img src="https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Maven-blue?style=for-the-badge&logo=apachemaven" />
   <img src="https://img.shields.io/badge/SQL-lightblue?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/ReactJs-blue?style=for-the-badge&logo=react" />
