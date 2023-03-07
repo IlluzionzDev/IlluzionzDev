@@ -1,6 +1,6 @@
 
   <h2>Hello there, I'm Jamin Stratford✌️</h2>
-  I'm a developer who enjoys everything creative and problem solving. You'll often find me designing and putting together little ideas
+  I'm a full-stack developer who enjoys everything creative and technical. You'll often find me designing and putting together little ideas
   and hacking tools together. I love to innovate and solve problems, keeping up with this next-gen tech world :)
   <br/><br/>
   Here are some of the technologies/tools I like to work with!
